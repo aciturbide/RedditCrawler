@@ -1,0 +1,8 @@
+var snoowrap = require('snoowrap');
+
+const r = new snoowrap({
+  userAgent: 'Effective-Function10',
+  clientId: 'cuhD9nmq-ltJTfaZ47_ncQ',
+  clientSecret: 'flkEE6bYDESJKRPDQZz-Oq-iuZfTlQ',
+  refreshToken: '1188643323079-k67vno5bbh9n6FHbuQppm3eBteRvCQ'
+ });
